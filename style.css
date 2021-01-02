@@ -1,0 +1,23 @@
+#myCarousel {
+    background-color: red;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarouse2 {
+    background-color: purple;
+}
+
+img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+body {
+    text-align: center;
+}
